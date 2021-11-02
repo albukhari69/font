@@ -1,0 +1,115 @@
+body {
+  background-color: black;
+  font-family: sans-serif;
+  font-weight: normal;
+}
+
+h1.text1 {
+  font-size: 100px;
+  text-align: center;
+  color: white;
+  padding: 70px;
+  text-shadow: 2px -1px 20px rgba(255, 255, 5, 0.4);
+}
+
+h2.text2 {
+  font-size: 100px;
+  text-align: center;
+  color: black;
+  background-color: #2c2828;
+  padding: 70px;
+  text-shadow: 0 1px 1px white;
+}
+
+h3.text3 {
+  font-size: 100px;
+  text-align: center;
+  color: rgb(5, 5, 141);
+  background-color: lightblue;
+  padding: 70px;
+  text-shadow: -1px -1px 1px black;
+}
+
+h4.text4 {
+  font-size: 100px;
+  text-align: center;
+  color: black;
+  background-color: white;
+  padding: 70px;
+  text-shadow: 3px 3px 0 white, 7px 7px 0 #eaeaea;
+}
+
+h5.text5 {
+  font-size: 100px;
+  text-align: center;
+  color: white;
+  background-color: lightskyblue;
+  padding: 70px;
+  text-shadow: -8px 8px 0 rgb(158, 214, 233), -16px 16px 0 rgb(127, 191, 214), -24px 24px 0 rgb(113, 165, 184);
+}
+
+h6.text6 {
+  font-size: 100px;
+  text-align: center;
+  color: black;
+  background-color: green;
+  padding: 70px;
+  text-shadow: -5px -5px 25px rgba(255, 255, 255, 0.4);
+}
+
+p.text7 {
+  font-size: 100px;
+  text-align: center;
+  color: white;
+  background-color: black;
+  padding: 70px;
+  text-shadow: 0px 0px 5px white, -6px -6px 15px rgb(233, 81, 233), 6px 6px 20px rgb(233, 81, 233);
+}
+
+p.text8 {
+  font-size: 100px;
+  text-align: center;
+  color: white;
+  background-color: black;
+  padding: 70px;
+  text-shadow: 0px 0px 5px white, 0 -10px 24px yellow, 0 -50px 30px red, 0 -50px 30px red, 0 -50px 30px rgba(255, 0, 0, 0);
+}
+
+p.text9 {
+  font-size: 100px;
+  text-align: center;
+  color: white;
+  background-color: rgb(0, 140, 255);
+  padding: 70px;
+  text-shadow: 0 4px 0 #7a7a7a, 0 6px 20px rgba(0, 0, 0, 0.7);
+}
+
+p.text10 {
+  font-family: normal;
+  font-weight: 600;
+  font-size: 100px;
+  text-align: center;
+  color: white;
+  background-color: blue;
+  padding: 70px;
+  font-style: oblique;
+  text-shadow: -10px 10px 0 black;
+}
+
+p.text11 {
+  font-size: 100px;
+  text-align: center;
+  color: black;
+  background-color: white;
+  padding: 70px;
+}
+
+p.text12 {
+  font-weight: bold;
+  font-size: 100px;
+  text-align: center;
+  color: rgb(104, 55, 184);
+  background-color: red;
+  padding: 70px;
+  text-shadow: 2px 2px 0 rgb(104 55 184), 4px 4px 0 rgb(110 55 184), 6px 6px 0 rgb(116 55 184), 8px 8px 0 rgb(122 55 184), 10px 10px 0 rgb(128 55 184), 12px 12px 0 rgb(134 55 184), 14px 14px 0 rgb(140 55 184), 16px 16px 0 rgb(146 55 184), 18px 18px 0 rgb(154 55 184), 20px 20px 0 rgb(160 55 184), 22px 22px 0 rgb(166 55 184), 24px 24px 0 rgb(172 55 184), 26px 26px 0 rgb(178 55 184), 28px 28px 0 rgb(184 55 184), 30px 30px 0 rgb(190 55 184), 32px 32px 0 rgb(196 55 184), 34px 34px 0 rgb(202 55 184), 36px 36px 0 rgb(208 55 184), 38px 38px 0 rgb(214 55 184), 40px 40px 0 rgb(220 55 184);
+}
